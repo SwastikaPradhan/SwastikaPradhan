@@ -1,4 +1,8 @@
 ## Hi there 👋
+<h3 align="center">A passionate FullStack developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SwastikaPradhan&label=Profile%20views&color=0e75b6&style=flat" alt="ankit1478" /> </p>
+
 
 <!--
 **SwastikaPradhan/SwastikaPradhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
